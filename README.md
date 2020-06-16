@@ -47,10 +47,16 @@ O material será subdividido em três níveis.
 - Back-end - é a camada de programação que fica nos bastidores, no banco de dados.
 
 - Biblioteca - é um conjunto de códigos, funções com inúmeros recursos onde você vai carregar só aquele que te interessa/precisa. É uma ferramenta para o seu projeto. Você pode utilizar várias bibliotecas para resolver problemas pontuais no seu código.
-
+  
+- CD (continuous delivery) - é uma prática de engenharia de software na qual as equipes, de desenvolvimento de software, produzem um entregável em ciclos curtos, garantindo que o software possa ser lançado com segurança a qualquer momento.
+  
+- CI (continuous integration) - é a prática de mesclar as cópias de trabalho de todos os desenvolvedores em uma linha principal compartilhada várias vezes ao dia. 
+ 
 - Clean Code - é um estilo de desenvolvimento que tem por foco a facilidade para escrever, ler e manter o código.
   
 - Compilador - é um programa de sistema que traduz um programa descrito em uma linguagem de alto nível para um programa equivalente em código de máquina para um processador.
+  
+  - Containers - é uma unidade padrão de software que empacota o código e todas as suas dependências para que o aplicativo seja executado de maneira rápida e confiável de um ambiente de computação para outro.
 
 - Deploy - implantar, disponibilizar para uso.
   
@@ -69,13 +75,33 @@ O material será subdividido em três níveis.
 
 - Full-stack -  é aquele que atua em várias partes do projeto (back-end, front-end, banco de dados) e para isso pode usar várias tecnologias.
   
+- Git - é um sistema de controle de versões distribuído
+  
+- Github - é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+  
+- Gitlab - é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD. GitLab é similar ao GitHub, mas o GitLab permite que os desenvolvedores armazenem o código em seus próprios servidores, ao invés de servidores de terceiros.
+
+- Gitflow -  é um design de fluxo de trabalho Git. 
+
+- Linux - é um termo popularmente empregado para se referir a sistemas operativos ou sistemas operacionais que utilizam o Kernel Linux
+  
 - Microsserviços - são uma abordagem arquitetônica e organizacional do desenvolvimento de software na qual o software consiste em pequenos serviços independentes que se comunicam usando APIs bem definidas. Esses serviços pertencem a pequenas equipes autossuficientes.
   
 - Open Source - é um termo em inglês que significa código aberto. Isso diz respeito ao código-fonte de um software, que pode ser adaptado para diferentes fins.
   
 - Paradigmas de programação - é um meio de se classificar as linguagens de programação baseado em suas funcionalidades. As linguagens podem ser classificadas em vários paradigmas.
   
+- Sistema Legado - é  um sistema antigo que permanece em operação em uma organização.
+  
 - Sistema Monolítico - é um termo oriundo dos estudos referentes a sistemas operacionais, que designa o modelo em que o sistema operacional é codificado por via de uma coleção de procedimentos, onde é permitido a qualquer um deles em qualquer parte do programa “chamar” outro procedimento.
+
+- Sistema Operacional - é um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema, fornecendo uma interface entre o computador e o usuário.
+  
+- Teste automatizado - é o uso de um software para controlar a execução do teste de software, comparando os resultados esperados com os resultados reais.
+  
+- Teste de unidade -  é toda a aplicação de teste nas assinaturas de entrada e saída de um sistema. Consiste em validar dados válidos e inválidos via I/O sendo aplicado por desenvolvedores ou analistas de teste.
+
+- Visual Studio Code -  é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
   
 - Web Assembly -  é um padrão aberto que define um formato de código binário portátil para programas executáveis ​​e uma linguagem de montagem de texto correspondente, bem como interfaces para facilitar as interações entre esses programas e seu ambiente host
 
@@ -150,7 +176,7 @@ O material será subdividido em três níveis.
  - **Next.js** -  ajuda a criar aplicativos com JavaScript e a reagir de maneira simples e personalizável. Inclui recursos como divisão automática de código, roteamento do lado do cliente e a capacidade de implementar com o Express ou outros servidores HTTP Node.js.
  - **Vue.js** - é essencial para a criação de excelentes interfaces de usuário e, se você já conhece o HTML, CSS e JavaScript, poderá começar a criar as coisas rapidamente! A biblioteca principal é focada na camada de visualização, por isso é ótima para emparelhar com outras bibliotecas e projetos ou simplesmente ativar aplicativos de página única.
  - **Webix** - focado em criar uma interface do usuário rica com apenas algumas linhas de código
-
+#### Ambientes de execução
    
  **HTML** - linguagem de marcação
 
